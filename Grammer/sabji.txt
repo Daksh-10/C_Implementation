@@ -1,0 +1,4 @@
+<----- Remove line 1 and 2 ----->
+<----- Write a custom grammer ----->
+
+S -> 0S1 | e
